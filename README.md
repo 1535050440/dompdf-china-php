@@ -1,4 +1,4 @@
-Dompdf
+Dompdf-【增加中文字体】
 ======
 
 [![Build Status](https://travis-ci.org/dompdf/dompdf.png?branch=master)](https://travis-ci.org/dompdf/dompdf)
